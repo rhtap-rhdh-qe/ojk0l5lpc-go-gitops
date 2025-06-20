@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ojk0l5lpc-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ojk0l5lpc-go-gitops
